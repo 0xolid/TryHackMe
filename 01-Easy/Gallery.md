@@ -6,6 +6,8 @@
 
 ## Solution
 
+First reconnaissance and port scanning.
+
 ```shell
 nmap -sV -sC -Pn --open 10.129.137.90 -p-
 ```
