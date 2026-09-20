@@ -6,7 +6,7 @@
 
 ## Solution
 
-First connect to machine.
+First connect to the machine.
 
 > Deploy the machine
 > 
